@@ -13,7 +13,7 @@ h1  {
     border: 1px dotted black;
     text-align: center;
     font-family: 'Helvetica Neue', arial;
-    font-weight: 100;
+    font-weight: 200;
     background-color: white;
 }
 div.eight-ball  {
@@ -30,8 +30,8 @@ div.answer  {
     background-color: white;
     border: 1px solid #333;
     border-radius: 50%;
-    width: 50%;
-    height: 50%;
+    width: 40%;
+    height: 40%;
     margin: 25% auto;
 }
 p#eight {
